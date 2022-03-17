@@ -20,5 +20,9 @@
         img {
             width: 100%;
         }
+        &:hover{
+            transform: scale(1.05);
+            //filter: blur(12);
+        }
     }
 }

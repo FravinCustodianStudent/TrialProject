@@ -17,3 +17,7 @@ counters.forEach( (item, i) => {
     lines[i].style.width = item.innerHTML;
 });
 
+// const items = document.querySelectorAll('.portfolio__item');
+// items.forEach((item,i)=>{
+//    items[i].classList
+// });
